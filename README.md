@@ -1,4 +1,4 @@
-# Indigenous Cultural Alignment Prompts
+# Indigenous Cultural Alignment app
 
 *Last reviewed: April 2026*
 
